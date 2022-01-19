@@ -1,0 +1,33 @@
+body {
+text-align: center;
+background-color: black;
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1 {
+ color:white   
+ 
+}
+
+p {
+    color:white   
+   }
+
+
+a { 
+    color:white
+}
+
+#footer {
+position: absolute; 
+bottom: 0;
+left: 0;
+
+}
+
+#hyperlinks {
+    position:absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+
+
+}
